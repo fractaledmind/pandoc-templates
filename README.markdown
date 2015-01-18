@@ -4,6 +4,14 @@
 
 A collection of support files for use with [Pandoc](http://johnmacfarlane.net/pandoc/), and specifically for helping to turn pandoc markdown files into nice HTML, LaTeX, PDF, and Microsoft Word Document output. These files go in your `~/.pandoc/` folder. 
 
+## Installation
+
+To install, simply run this command from your Terminal:
+
+`git clone https://github.com/smargh/pandoc-templates.git ~/.pandoc`
+
+This will clone this repositorty into the appropriate Pandoc templates directory.
+
 ## Notes
 
 What's included?
